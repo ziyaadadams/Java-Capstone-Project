@@ -1,0 +1,1 @@
+Project Number: 1, Project Name: Poised Apartments, Project Building Type: Apartments, Project Fee: 15000000, Total Paid: 0, Project Address: 4 Rooney Street, ERF Number: 123456, Project Start Date: 02/02/2020, Project Deadline: 02/12/2020
